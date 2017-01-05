@@ -290,7 +290,9 @@ body {
   width: 100%;
   text-align: right;
   font-family: 'Open Sans', Helvetica, sans-serif;
-  color: #fff; }
+  color: #fff;
+  font-weight: normal;
+  text-transform: uppercase; }
 
 #breddi h2 {
   font-size: 1.6em;
